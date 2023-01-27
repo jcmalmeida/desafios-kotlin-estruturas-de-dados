@@ -1,8 +1,8 @@
-package Questao1
+package Desafio1
 
 import java.util.*
-import Questao1.Associativity.*
-import Questao1.Operator.*
+import Desafio1.Associativity.*
+import Desafio1.Operator.*
 
 enum class Associativity {
     RIGHT,

@@ -1,4 +1,4 @@
-package Questao1
+package Desafio1
 
 import java.util.*
 import kotlin.random.Random

@@ -1,4 +1,4 @@
-package Questao1
+package Desafio1
 
 data class Node<T>(
     var value: T,
